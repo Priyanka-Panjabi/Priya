@@ -9,8 +9,14 @@ export const siteConfig = {
     linkedin: "https://www.linkedin.com/in/priyanka-panjabi-84496112b/",
     github: "https://github.com/Priyanka-Panjabi",
   },
-  aboutMe:
-    "Senior Frontend Engineer with 8+ years building high-performance React and TypeScript applications at 1M+ user scale across healthcare, enterprise SaaS, and logistics. Track record of delivering 40–50% performance improvements, architecting shared component systems adopted by 10+ teams, and leading frontend delivery across distributed agile environments. I thrive at the intersection of engineering and product — translating complex requirements into fast, accessible, and maintainable UIs. Currently based in Calgary, Canada. Open to Senior IC and Tech Lead roles in Canada and the US.",
+  aboutMe: [
+    "8+ years building React & TypeScript applications at 1M+ user scale.",
+    "Delivered ~40–50% performance improvements across enterprise healthcare platforms at Optum (UnitedHealth Group).",
+    "Architected a shared component library adopted by 10+ teams at Thomson Reuters.",
+    "Experience spanning healthcare, enterprise SaaS, and logistics at Wipro and Reliance Jio.",
+    "Based in Calgary, Canada — eligible to work in Canada and the US.",
+    "Seeking Senior IC and Tech Lead roles.",
+  ],
   skills: [
     "React.js",
     "Next.js",
