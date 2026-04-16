@@ -2,7 +2,7 @@
 
 Personal portfolio site for Priyanka Panjabi, Senior Frontend Engineer.
 
-**Live site:** [priyanka-panjabi.github.io](https://priyanka-panjabi.github.io)
+**Live site:** [priyanka-bhandari.github.io](https://priyanka-bhandari.github.io)
 
 ## Built With
 
