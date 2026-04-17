@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Priyanka Panjabi",
+  name: "Priyanka Bhandari",
   title: "Senior Frontend Engineer",
   tagline: "📍 Calgary, Canada · Canadian PR · Open to work in Canada & US",
   openToWork: true,
@@ -10,7 +10,7 @@ export const siteConfig = {
     { label: "Teams Impacted", value: 10, suffix: "+" },
   ],
   description:
-    "Portfolio of Priyanka Panjabi — Senior Frontend Engineer specializing in React and TypeScript",
+    "Portfolio of Priyanka Bhandari — Senior Frontend Engineer specializing in React and TypeScript",
   accentColor: "#2563eb",
   social: {
     email: "priyanka.panjabi88@gmail.com",

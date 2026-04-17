@@ -1,6 +1,6 @@
 # Priyanka Panjabi — Portfolio
 
-Personal portfolio site for Priyanka Panjabi, Senior Frontend Engineer.
+Personal portfolio site for Priyanka Bhandari, Senior Frontend Engineer.
 
 **Live site:** [priyanka-panjabi.github.io](https://priyanka-panjabi.github.io)
 
