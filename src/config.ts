@@ -14,7 +14,7 @@ export const siteConfig = {
   accentColor: "#2563eb",
   social: {
     email: "priyanka.panjabi88@gmail.com",
-    linkedin: "https://www.linkedin.com/in/priyanka-panjabi-84496112b/",
+    linkedin: "https://www.linkedin.com/in/priyanka-panjabi/",
     github: "https://github.com/Priyanka-Panjabi",
   },
   aboutMe: [

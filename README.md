@@ -34,6 +34,3 @@ All content lives in one file: `src/config.ts`
 
 Pushes to `main` auto-deploy via GitHub Actions to GitHub Pages.
 
-## License
-
-MIT
